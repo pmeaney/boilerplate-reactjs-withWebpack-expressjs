@@ -1,0 +1,19 @@
+# # ignore all files/directories with which match these
+# Note-- Uncomment to ignore things. I am leaving everything necessary unignored so you can access things as necessary.
+**/.DS_Store
+# **.log
+# **/.sass-cache
+**/node_modules
+
+# # **/.env
+# **/env.json
+# # **/.pgpass
+# # **/config.json
+
+# # src/client/scss/someStuffToIgnoreInThisDirectory/*
+# # src/server/public/bootstrap4_stylesheets/*
+# src/server/public/*
+# # recursively ignore directory:
+# # someDirectoryWhoseContentsToIgnore/
+
+
