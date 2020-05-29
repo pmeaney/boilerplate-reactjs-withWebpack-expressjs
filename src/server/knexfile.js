@@ -1,4 +1,4 @@
-require('dotenv').config();
+const process = require('./config-server-env.json')
 
 module.exports = {
   development: {

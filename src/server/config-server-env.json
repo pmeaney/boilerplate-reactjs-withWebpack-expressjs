@@ -1,0 +1,10 @@
+{
+  "env": {
+    "NODE_ENV": "development",
+    "APP_API_BASE_URL": "localhost:3000",
+    "DB_CLIENT": "postgresql",
+    "DB_CONNECTION": "postgres://localhost/<nameOfDBHere>",
+    "DB_MIGRATION_DIR": "./db/migrations",
+    "DB_SEEDS_DIR": "./db/seeds"
+  }
+}
