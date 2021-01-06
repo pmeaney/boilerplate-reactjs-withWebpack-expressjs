@@ -13,7 +13,7 @@
     "prod": "NODE_ENV=production node --inspect src/server/bin/www"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
     "normalize.css": "^8.0.1",
